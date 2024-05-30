@@ -25,7 +25,7 @@ concurrency:
 
 # Variables
 env:
-  pr_set: '["bcgov/renovate-config", "bcgov/quickstart-openshift"]'
+  pr_set: '["devx-1498/renovate-config", "devx-1498/quickstart-openshift-demo"]'
 
 jobs:
   Renovate:
